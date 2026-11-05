@@ -1,0 +1,6 @@
+{
+  "name": "MCP Studio & Model Gateway",
+  "description": "Connect, install, and orchestrate Model Context Protocol (MCP) servers with unified authentication for Google Gemini, OpenAI, Claude, Ollama, and open-source models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
